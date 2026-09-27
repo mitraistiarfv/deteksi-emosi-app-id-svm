@@ -3,3 +3,4 @@ joblib
 pandas
 nltk
 scikit-learn==1.6.1
+openpyxl
